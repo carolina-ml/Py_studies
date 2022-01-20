@@ -1,1 +1,1 @@
-# triti
+# studies
