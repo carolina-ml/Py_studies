@@ -22,6 +22,8 @@ print(type(cansada))
 print(type(nome))
 print(type(altura))
 
+#input() - retorna um dado informado pelo usuário (entrada padrão) e pode receber uma str
+
 linguagem = input('Qual a melhor linguagem de programação do mundo?')
 
 print('você tem toda razão é', linguagem)

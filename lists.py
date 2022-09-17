@@ -1,5 +1,3 @@
-
-
 #Criando listas - lista = []
 
 
